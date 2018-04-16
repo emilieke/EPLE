@@ -1,2 +1,2 @@
-# EPLE
+# UniversityHack
 This is a readme file
